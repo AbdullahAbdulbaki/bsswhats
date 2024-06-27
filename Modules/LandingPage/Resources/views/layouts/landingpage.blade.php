@@ -56,7 +56,7 @@
 
 								<!-- Title -->
 								<h2 class="s-58 w-700">
-									Sell  <span style="color:#FE4A65">Your Products Directly</span> Through WhatsApp
+									Sell  <span style="color:#FE4A65">Your Products Directly1111</span> Through WhatsApp
 								</h2>
 
 								<!-- Text -->
